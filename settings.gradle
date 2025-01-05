@@ -1,0 +1,5 @@
+rootProject.name = 'kukeboard'
+
+include 'service'
+include 'service:article'
+include 'common'
